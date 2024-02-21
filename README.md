@@ -2,7 +2,7 @@
 
 #### I'm João, a dedicated Frontend Engineer focused on delivering impactful and efficient solutions.
 
-👨‍💻 Lead Frontend Engineer at [Zharta](https://app.zharta.io)  
+👨‍💻 Lead Frontend Engineer at [Zharta](https://github.com/Zharta)  
 🔍 Exploring the exciting realm of web3 technology
 
 ⚙️ I'm using: `react`, `remix`, `wagmi`, `tailwind`, `node`, `typescript`.  
